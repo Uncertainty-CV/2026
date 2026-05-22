@@ -1,0 +1,120 @@
+- title: "Consensus-Driven Active Model Selection"
+  authors: Justin Kay, Grant Van Horn, Subhransu Maji, Daniel Sheldon, Sara Beery 
+  type: abstract
+
+- title: Improving Optical Flow and Stereo Depth Estimation by understanding learning difficulties
+  authors: Jisoo Jeong, Hong Cai, Jamie Menjay Lin, Fatih Porikli  
+  type: full
+
+- title: "D-Feat Occlusions: Diffusion Features for Robustness to Partial Visual Occlusions in Object Recognition"
+  authors: Rupayan Mallick, Sibo Dong, Nataniel Ruiz, Sarah Adel Bargal 
+  type: full
+
+- title: "WQLCP: Weighted Adaptive Conformal Prediction for Robust Uncertainty Quantification Under Distribution Shifts"
+  authors: Shadi Alijani, Homayoun Najjaran
+  type: full
+
+- title: "The Surprising Utility of Group Partitioning in Improving Conformal Prediction of Visual Classifiers under Distributional Shifts
+"
+  authors: Kowshik Thopalli, Vivek Narayanaswamy, Jayaraman J. Thiagarajan
+  type: full
+
+- title: "Uncertainty Quantification for Gradient-based Explanations in Neural Networks"
+  authors: Mihir Mulye, Matias Valdenegro-Toro
+  type: full
+
+- title: "View-Dependent Uncertainty Estimation of 3D Gaussian Splatting"
+  authors: Chenyu Han, Corentin Dumery
+  type: abstract
+
+- title: "Consensus-Driven Active Model Selection"
+  authors: Justin Kay, Grant Van Horn, Subhransu Maji, Daniel Sheldon, Sara Beery 
+  type: abstract
+
+
+- title: "Spatially-Aware Evaluation of Segmentation Uncertainty"
+  authors: Tal Zeevi, Eléonore V. Lieffrig, Lawrence H. Staib, John A Onofrey 
+  type: abstract
+
+
+- title: "Compositional Targeted Multi-Label Universal Perturbations"
+  authors: Hassan Mahmood, Ehsan Elhamifar  
+  type: abstract
+
+
+- title: "Quantile UQNet: A Conformal, Nonlinear Scaling Model for Uncertainty Prediction"
+  authors: Cassandra Tong Ye, Tyler King, Kristina Monakhova  
+  type: abstract
+
+
+- title: "HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models"
+  authors: Erum Mushtaq, Zalan Fabian, Yavuz Faruk Bakman, Anil Ramakrishna, Mahdi Soltanolkotabi, Salman Avestimehr 
+  type: abstract
+
+
+- title: "Centaur: Robust End-to-End Autonomous Driving with Test-Time Training"
+  authors: Chonghao Sima, Kashyap Chitta, Zhiding Yu, Shiyi Lan, Ping Luo, Andreas Geiger, Hongyang Li, Jose M. Alvarez 
+  type: abstract
+
+
+- title: "Detecting Out-of-distribution through the Lens of Neural Collapse"
+  authors: Litian Liu, Yao Qin 
+  type: poster
+
+
+- title: "DPU: Dynamic Prototype Updating for Multimodal Out-of-Distribution Detection"
+  authors: Shawn Li, Huixian Gong, Hao Dong, Tiankai Yang, Zhengzhong Tu, Yue Zhao
+  type: poster
+
+
+- title: "PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting"
+  authors: Alex Hanson, Allen Tu, Vasu Singla, Mayuka Jayawardhana, Matthias Zwicker, Tom Goldstein
+  type: poster
+
+
+- title: "Dual Energy-Based Model with Open-World Uncertainty Estimation for Out-of-distribution Detection"
+  authors: Qi Chen, Hu Ding 
+  type: poster
+
+
+- title: "OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection"
+  authors: Max Gutbrod, David Rauber, Danilo Weber Nunes, Christoph Palm
+  type: poster
+
+
+- title: "LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty"
+  authors: Christoforos N. Spartalis, Theodoros Semertzidis, Efstratios Gavves, Petros Daras
+  type: poster
+
+- title: "Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation"
+  authors: Sayak Nag, Udita Ghosh
+  type: poster
+
+- title: "Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection"
+  authors: Wenxi Chen, Raymond A. Yeh, Shaoshuai Mou, Yan Gu
+  type: poster
+
+
+- title: "Unified Uncertainty-Aware Diffusion for Multi-Agent Modeling"
+  authors: Guillem Capellera, Antonio Rubio, Luis Ferraz, Antonio Agudo
+  type: poster
+
+
+- title: "ProHOC: Probabilistic Hierarchical Out-of-Distribution Classification via Multi-Depth Networks"
+  authors: Erik Wallin, Fredrik Kahl, Lars Hammarstrand
+  type: poster
+
+
+- title: "Conformal Object Detection by Sequential Risk Control"
+  authors: Léo Andéol
+  type: poster
+
+
+
+
+
+
+
+
+
+

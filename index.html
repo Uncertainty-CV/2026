@@ -1,0 +1,106 @@
+---
+layout: default
+---
+
+<!-- Information -->
+<div class="jumbotron information">
+
+  <p>In the last decade, substantial progress has been made w.r.t. the performance of computer vision systems, a significant part of it thanks to deep learning. These advancements prompted sharp community growth and a rise in industrial investment. However, most current models lack the ability to reason about the confidence of their predictions; integrating uncertainty quantification into vision systems will help recognize failure scenarios and enable robust applications.</p>
+
+  <p>The UNcertainty quantification for Computer Vision (UNCV) Workshop aims to raise awareness and generate discussion regarding how predictive uncertainty can, and should, be effectively incorporated into models within the vision community. At the time of Generative AI (GenAI) we find this more crucial than ever. The workshop will bring together experts from machine learning and computer vision to create a new generation of well-calibrated and effective methods that <i>know when they do not know</i>. </p>
+</div>
+
+
+<!-- Content -->
+
+
+<!--
+<h3>🔥 Show your work at our poster session!</h3>
+
+Are you interested in presenting your recent work in our poster session?
+Nominate yourself <b>before May 27th</b> by filling out this <a href="https://forms.gle/3KXtqBcmKaS16JVb9">google form</a>!
+-->
+
+<h2>Speakers</h2>
+
+<div class="row justify-content-center people-widget text-center">
+
+{% for item in site.data.speakers  %}
+
+<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+  <a href="{{ item.url }}">
+  <div class="team-member">
+
+    {% if item.img %}
+    <img src="{{ site.baseurl }}/assets/speakers/{{ item.img }}" class="img-responsive img-circle avatar-x2 avatar-circle" alt="">
+    {% else %}
+    <div class="avatar-x2 avatar-circle" style="background: #ddd;">
+      <i class="fa fa-user" style="font-size: 220px; color: #eee; margin-top:20px;"></i>
+    </div>
+    {% endif %}
+    <h4>{{ item.name }}</h4>
+    <p class="text-muted">{{ item.affiliation }}</p>
+  </div>
+  </a>
+</div>
+
+{% endfor %}
+
+</div>
+
+<h2>Workshop Program</h2>
+The workshop will happen in person at CVPR 2025 on Wednesday June 11.
+</br>
+
+<h2>Call for Papers</h2>
+  <p>
+  We invite submissions on topics, such as, but not limited to:
+  <ul>
+    <li> Applications of uncertainty quantification in computer vision </li>
+    <li> Reliability of Multi-modal Models (e.g., Vision-Language) </li>
+    <li> Uncertainty Quantification of Open-Vocabulary approaches </li>
+    <li> Failure prediction (e.g., Out-of-Distribution detection) </li>
+    <li> Robustness in computer vision </li>
+    <li> Safety critical applications (e.g., autonomous driving) </li>
+    <li> Domain-shift in computer vision </li>
+    <li> Deep probabilistic models </li>
+    <li> Methods for uncertainty quantification </li>
+    <li> Incorporating explicit prior knowledge in deep learning </li>
+    <li> Output ambiguity, label noise, and diversity </li>
+    <li> Uncertainty Quantification of GenAI approaches </li>
+  </ul>
+  </p>
+
+  <p>We invite two types of submissions: <b>regular papers</b> (that will follow CVPR format, published in proceedings) and <b>extended abstracts</b> (short max 4 pages papers, not published in proceedings).</p>
+
+  <p>All submissions will be peer-reviewed, and accepted submissions will be presented at the workshop. <b>Only regular CVPR workshop papers will be included in the Workshop Proceedings.</b> All submission should follow the <a href="https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines">CVPR author guidelines</a> using the provided <a href="https://github.com/cvpr-org/author-kit/releases">author kit.</a></p>
+  <br/>
+  <b>Submission link:</b> <a href="https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/UnCV">OpenReview</a> 
+</br>
+
+<h2>Important Dates</h2>
+
+<p>All times are end of day AOE.</p>
+
+<ul>
+{% for item in site.deadlines  %}
+  <li>{{ item.item }}: <strong>{{ item.date }}</strong></li>
+{% endfor %}
+</ul>
+
+<!-- Previous Events -->
+<h2>Previous Workshops</h2>
+<ul>
+{% for item in site.data.previous_events %}
+  <li><a href="{{ item.url}}"><strong>{{ item.name }}</strong></a></li>
+{% endfor %}
+</ul>
+
+<!-- List of Organizers -->
+
+<h2>Organizers</h2>
+<ul>
+{% for item in site.data.organizers  %}
+  <li><a href="{{ item.url }}"><strong>{{ item.name }}</strong></a>, {{ item.affiliation }}</li>
+{% endfor %}
+</ul>
