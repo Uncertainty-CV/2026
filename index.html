@@ -24,9 +24,7 @@ Nominate yourself <b>before May 27th</b> by filling out this <a href="https://fo
 <h2>Speakers</h2>
 
 <div class="row justify-content-center people-widget text-center">
-  <p><strong>Speakers will be announced soon.</strong></p>
 
-<!-- 
 {% for item in site.data.speakers  %}
 
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
@@ -34,7 +32,7 @@ Nominate yourself <b>before May 27th</b> by filling out this <a href="https://fo
   <div class="team-member">
 
     {% if item.img %}
-    <img src="{{ site.baseurl }}/assets/speakers/{{ item.img }}" class="img-responsive img-circle avatar-x2 avatar-circle" alt="">
+    <img src="{{ item.img }}" class="img-responsive img-circle avatar-x2 avatar-circle" alt="{{ item.name }}">
     {% else %}
     <div class="avatar-x2 avatar-circle" style="background: #ddd;">
       <i class="fa fa-user" style="font-size: 220px; color: #eee; margin-top:20px;"></i>
@@ -47,12 +45,11 @@ Nominate yourself <b>before May 27th</b> by filling out this <a href="https://fo
 </div>
 
 {% endfor %}
-END MODIFIED -->
 
 </div>
 
 <h2>Workshop Program</h2>
-The workshop will happen in person at ECCV 2026 on 8 or 9 September 2026.
+The workshop will happen in person at ECCV 2026 on September 8, 2026 (full day), in Room XXX.
 </br>
 
 <h2>Call for Papers</h2>

@@ -15,92 +15,68 @@ title: Program
     </thead>
     <tbody>
     <tr>
-        <td class="time-cell">08:50 - 09:00</td>
-        <td>Welcome</td>
+        <td class="time-cell">09:00 - 09:30</td>
+        <td>People join & Welcome</td>
     </tr>
     <tr>
-        <td class="time-cell">09:00 - 09:40</td>
-        <td>Invited Talk by <strong><a href="https://petiushko.info/">Aleksandr Petiushko</a></strong><br>
-        <i>Safety and Uncertainty in Autonomous Driving</i>
-        </td>
+        <td class="time-cell">09:30 - 10:00</td>
+        <td>Invited Talk by <strong><a href="https://frellsen.org/">Jes Frellsen</a></strong></td>
     </tr>
     <tr>
-        <td class="time-cell">09:40 - 10:20</td>
-        <td>Invited Talk by <strong><a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a></strong><br>
-        <i>A Representative-Centric Perspective for Hallucination Detection</i>
-        </td>
+        <td class="time-cell">10:00 - 10:30</td>
+        <td>Invited Talk by <strong><a href="https://giannifranchi.github.io/">Gianni Franchi</a></strong></td>
     </tr>
     <tr>
-        <td class="time-cell">10:20 - 10:30</td>
+        <td class="time-cell">10:30 - 11:00</td>
         <td>Coffee Break</td>
     </tr>
     <tr>
-        <td class="time-cell">10:30 - 11:10</td>
-        <td>Invited Talk by <strong><a href="https://boleizhou.github.io/">Bolei Zhou</a></strong><br>
-        <i>Learning Safety-aware Agents from Human Feedback and Adversary Environments</i>
+        <td class="time-cell">11:00 - 11:30</td>
+        <td>Invited Talk by <strong><a href="https://pure.itu.dk/en/persons/christian-hardmeier/">Christian Hardmeier</a></strong> </td>
+    </tr>
+    <tr>
+        <td class="time-cell">11:30 - 12:00</td>
+        <td>Contributed Oral Presentations<br>
+        <i>4 × 5 min talks + Q&A</i>
         </td>
     </tr>
     <tr>
-        <td class="time-cell">11:10 - 11:50</td>
-        <td>Invited Talk by <strong><a href="http://latentspace.cc/">Arash Vahdat</a></strong><br>
-        <i>Rare Yet Real: Generative Modeling Beyond the Modes</i>
+        <td class="time-cell">12:00 - 12:30</td>
+        <td>Contributed Spotlights<br>
+        <i>7 × 3 min presentations</i>
         </td>
     </tr>
     <tr>
-        <td class="time-cell">11:50 - 13:00</td>
+        <td class="time-cell">12:30 - 13:15</td>
         <td>Lunch</td>
     </tr>
     <tr>
-        <td class="time-cell">13:00 - 13:30</td>
-        <td>Contributed Talks (Full Papers)<br>
-        <ul>
-            <li>Improving Optical Flow and Stereo Depth Estimation by understanding learning difficulties</li>
-            <li>D-Feat Occlusions: Diffusion Features for Robustness to Partial Visual Occlusions in Object Recognition</li>
-            <li>The Surprising Utility of Group Partitioning in Improving Conformal Prediction of Visual Classifiers under Distributional Shifts</li>
-        </ul>
-        </td>
+        <td class="time-cell">13:15 - 14:30</td>
+        <td>Poster Session</td>
     </tr>
     <tr>
-        <td class="time-cell">13:30 - 14:10</td>
-        <td>Invited Talk by <strong><a href="https://faculty.cc.gatech.edu/~judy/">Judy Hoffman</a></strong><br>
-        <i>Bridging the Gap: Robust Robot Learning from Human Video</i>
-        </td>
+        <td class="time-cell">14:30 - 15:00</td>
+        <td>Invited Talk by <strong><a href="https://www.cs.ox.ac.uk/people/yarin.gal/website/">Yarin Gal</a></strong></td>
     </tr>
     <tr>
-        <td class="time-cell">14:10 - 14:30</td>
-        <td>Contributed Spotlights<br>
-        <ul>
-            <li>View-Dependent Uncertainty Estimation of 3D Gaussian Splatting</li>
-            <li>Spatially-Aware Evaluation of Segmentation Uncertainty</li>
-            <li>Compositional Targeted Multi-Label Universal Perturbations</li>
-            <li>Quantile UQNet: A Conformal, Nonlinear Scaling Model for Uncertainty Prediction</li>
-            <li>Centaur: Robust End-to-End Autonomous Driving with Test-Time Training</li>
-            <li>Consensus-Driven Active Model Selection</li>
-            <li>Uncertainty Quantification for Gradient-based Explanations in Neural Networks</li>
-            <li>WQLCP: Weighted Adaptive Conformal Prediction for Robust Uncertainty Quantification Under Distribution Shifts</li>
-            <li>HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models</li>
-        </ul>
-        </td>
+        <td class="time-cell">15:00 - 15:30</td>
+        <td>Coffee Break</td>
     </tr>
     <tr>
-        <td class="time-cell">14:30 - 15:50</td>
-        <td>Poster Session & Coffee Break</td>
+        <td class="time-cell">15:30 - 16:00</td>
+        <td>Invited Talk by <strong><a href="https://www.is.ids.osaka-u.ac.jp/en/authors/noa-garcia/">Noa Garcia</a></strong></td>
     </tr>
     <tr>
-        <td class="time-cell">15:50 - 16:30</td>
-        <td>Invited Talk by <strong><a href="https://jindonggu.github.io/">Jindong Gu</a></strong><br>
-        <i>Toward the Risks Brought by Visual Input into Multimodal LLMs</i>
-        </td>
+        <td class="time-cell">16:00 - 16:30</td>
+        <td>Invited Talk by <strong><a href="https://www.kuleuven.be/wieiswie/en/person/00124166">Teodora Gagaleska</a></strong></td>
     </tr>
     <tr>
-        <td class="time-cell">16:30 - 17:10</td>
-        <td>Invited Talk by <strong><a href="https://www.linkedin.com/in/michael-kirchhof/">Michael Kirchhof</a></strong><br>
-        <i>(De/Re)constructing uncertainties for generative vision and language</i>
-        </td>
+        <td class="time-cell">16:30 - 17:00</td>
+        <td>Invited Talk by <strong><a href="https://ailb-web.ing.unimore.it/~lorenzo/">Lorenzo Baraldi</a></strong></td>
     </tr>
     <tr>
-        <td class="time-cell">17:10 - 17:20</td>
-        <td>Closing Remarks</td>
+        <td class="time-cell">17:00 - 17:30</td>
+        <td>Invited Talk by <strong><a href="https://www.sorbonne-universite.fr/portraits/matthieu-cord">Matthieu Cord</a></strong></td>
     </tr>
     </tbody>
 </table>
