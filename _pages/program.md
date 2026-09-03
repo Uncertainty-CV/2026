@@ -32,17 +32,17 @@ title: Program
     </tr>
     <tr>
         <td class="time-cell">11:00 - 11:30</td>
-        <td>Invited Talk by <strong><a href="https://pure.itu.dk/en/persons/christian-hardmeier/">Christian Hardmeier</a></strong> </td>
+        <td>Invited Talk by <strong><a href="https://pure.itu.dk/en/persons/christian-hardmeier/">Christian Hardmeier</a></strong> <i>(proposed)</i></td>
     </tr>
     <tr>
-        <td class="time-cell">11:30 - 12:00</td>
-        <td>Contributed Oral Presentations<br>
-        <i>4 × 5 min talks + Q&A</i>
+        <td class="time-cell">11:30 - 11:45</td>
+        <td>Contributed Oral Presentations (Accepted Full Papers)<br>
+        <i>2 × 7 min talks + Q&A</i>
         </td>
     </tr>
     <tr>
-        <td class="time-cell">12:00 - 12:30</td>
-        <td>Contributed Spotlights<br>
+        <td class="time-cell">11:45 - 12:15</td>
+        <td>Contributed Spotlights (Accepted Extended Abstracts)<br>
         <i>7 × 3 min presentations</i>
         </td>
     </tr>
