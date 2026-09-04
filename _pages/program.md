@@ -24,7 +24,8 @@ title: Program
     </tr>
     <tr>
         <td class="time-cell">10:00 - 10:30</td>
-        <td>Invited Talk by <strong><a href="https://giannifranchi.github.io/">Gianni Franchi</a></strong></td>
+        <!-- <td>Invited Talk by <strong><a href="https://giannifranchi.github.io/">Gianni Franchi</a></strong></td> -->
+        <td>Invited Talk by <strong><a href="https://tpopordanoska.github.io/">Teodora Gagaleska</a></strong></td>
     </tr>
     <tr>
         <td class="time-cell">10:30 - 11:00</td>
@@ -68,15 +69,11 @@ title: Program
     </tr>
     <tr>
         <td class="time-cell">16:00 - 16:30</td>
-        <td>Invited Talk by <strong><a href="https://www.kuleuven.be/wieiswie/en/person/00124166">Teodora Gagaleska</a></strong></td>
-    </tr>
+        <td>Invited Talk by <strong><a href="https://www.sorbonne-universite.fr/portraits/matthieu-cord">Matthieu Cord</a></strong></td>    
+   </tr>
     <tr>
         <td class="time-cell">16:30 - 17:00</td>
         <td>Invited Talk by <strong><a href="https://ailb-web.ing.unimore.it/~lorenzo/">Lorenzo Baraldi</a></strong></td>
-    </tr>
-    <tr>
-        <td class="time-cell">17:00 - 17:30</td>
-        <td>Invited Talk by <strong><a href="https://www.sorbonne-universite.fr/portraits/matthieu-cord">Matthieu Cord</a></strong></td>
     </tr>
     </tbody>
 </table>
