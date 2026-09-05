@@ -86,7 +86,7 @@ title: Program
         <td class="time-cell">16:30 - 17:00</td>
         <td>Invited Talk by <strong><a href="https://ailb-web.ing.unimore.it/~lorenzo/">Lorenzo Baraldi</a></strong>
         <br>
-        <i>TBA</i></td>
+        <i>Looking Inside Multimodal Foundation Models: Representations as the Interface for Control and Reliability</i></td>
     </tr>
     </tbody>
 </table>
