@@ -1,42 +1,50 @@
 - name: Jes Frellsen
   affiliation: Technical University of Denmark (DTU)
   abstract: TBA
-  img: "https://www.dtubasen.dtu.dk/showimage.aspx?id=18775"
+  # img: "https://www.dtubasen.dtu.dk/showimage.aspx?id=18775"
+  img: "jes.jpg"
   url: "https://frellsen.org/"
 
 - name: Christian Hardmeier
   affiliation: IT University of Copenhagen
   abstract: TBA
-  img: "https://en.itu.dk/-/media/DK/Om-ITU/Presse/Nyheder/2025/Christian-Hardmeier_201125_2000x1000-jpg.jpg?jq=70&w=862"
+  # img: "https://en.itu.dk/-/media/DK/Om-ITU/Presse/Nyheder/2025/Christian-Hardmeier_201125_2000x1000-jpg.jpg?jq=70&w=862"
+  img: "christian.jpg"
   url: "https://pure.itu.dk/en/persons/christian-hardmeier/"
 
 - name: Yarin Gal
   affiliation: University of Oxford
   abstract: TBA
-  img: "https://www.cs.ox.ac.uk/people/yarin.gal/website/Images/DSC_0136_small.jpg"
+  # img: "https://www.cs.ox.ac.uk/people/yarin.gal/website/Images/DSC_0136_small.jpg"
+  img: "yarin.jpg"
   url: "https://www.cs.ox.ac.uk/people/yarin.gal/website/"
 
 - name: Noa Garcia
   affiliation: Osaka University
   abstract: TBA
-  img: "https://www.is.ids.osaka-u.ac.jp/en/authors/noa-garcia/avatar_hu6fdf8eedf112c692afb626d9bc086270_29773_270x270_fill_q75_lanczos_center.jpg"
+  # img: "https://www.is.ids.osaka-u.ac.jp/en/authors/noa-garcia/avatar_hu6fdf8eedf112c692afb626d9bc086270_29773_270x270_fill_q75_lanczos_center.jpg"
+  img: "noa.jpg"
   url: "https://www.is.ids.osaka-u.ac.jp/en/authors/noa-garcia/"
 
 - name: Teodora Gagaleska
   affiliation: KU Leuven
   abstract: TBA
+  # img: "https://tpopordanoska.github.io/img/teodora_profile.png"
+  img: "teodora.png"
   url: "https://tpopordanoska.github.io/"
-  img: "https://tpopordanoska.github.io/img/teodora_profile.png"
+  
 
 - name: Lorenzo Baraldi
   affiliation: University of Modena and Reggio Emilia
   abstract: TBA
   # img: "https://ailb-web.ing.unimore.it/~lorenzo/static/frontend/images/lorenzo-baraldi.jpg"
-  img: "https://avatars.githubusercontent.com/u/8173533?v=4"
+  # img: "https://avatars.githubusercontent.com/u/8173533?v=4"
+  img: "lorenzo.jpg"
   url: "https://ailb-web.ing.unimore.it/~lorenzo/"
 
 - name: Matthieu Cord
   affiliation: Sorbonne Université / Valeo.ai
   abstract: TBA
-  img: "https://www.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-01/2025-matthieu-cord-ret-su-pkitmacher-5739.jpg?itok=Talt3D24"
+  # img: "https://www.sorbonne-universite.fr/sites/default/files/styles/large/public/media/2025-01/2025-matthieu-cord-ret-su-pkitmacher-5739.jpg?itok=Talt3D24"
+  img: "matthieu.jpg"
   url: "https://www.sorbonne-universite.fr/portraits/matthieu-cord"
