@@ -22,7 +22,7 @@ title: Program
         <td class="time-cell">09:30 - 10:00</td>
         <td>Invited Talk by <strong><a href="https://frellsen.org/">Jes Frellsen</a></strong>
         <br>
-        <i>TBA</i></td>
+        <i>An Isotropic Approach to Efficient Uncertainty Quantification with Gradient Norms</i></td>
     </tr>
     <tr>
         <td class="time-cell">10:00 - 10:30</td>
