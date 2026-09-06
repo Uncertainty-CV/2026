@@ -44,12 +44,25 @@ title: Program
         <td class="time-cell">11:30 - 11:45</td>
         <td>Contributed Oral Presentations (Accepted Full Papers)<br>
         <i>2 × 7 min talks + Q&A</i>
+        <ul>
+            <li>Does Marginal Coverage Guarantee Class-Conditional Safety for Zero-Shot VLMs Under Shift?</li>
+            <li>Uncertainty-Aware Trajectory Forecasting from Imperfect Tracking</li>
+        </ul>
         </td>
     </tr>
     <tr>
         <td class="time-cell">11:45 - 12:15</td>
         <td>Contributed Spotlights (Accepted Extended Abstracts)<br>
         <i>7 × 3 min presentations</i>
+        <ul>
+            <li>Modality-Aware Out-of-Distribution Detection for Multi-Modal Action Recognition</li>
+            <li>PUF: Plug-and-Play Uncertainty-Aware Fusion for Online 3D Scene Graph Generation</li>
+            <li>Auto3R: Automated 3D Reconstruction and Scanning via Data-driven Uncertainty Quantification</li>
+            <li>Open-Set Domain Adaptation Under Background Distribution Shift</li>
+            <li>Decompose, Compare, and Decide: Multimodal LLMs are Implicit Few-Shot Learners</li>
+            <li>Ensembling Pruned Attention Heads For Uncertainty-Aware Efficient Transformers</li>
+            <li>Rank-Dropout LoRA for Parameter-Efficient Uncertainty Estimation</li>
+        </ul>
         </td>
     </tr>
     <tr>
