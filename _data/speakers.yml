@@ -5,6 +5,14 @@
   # img: jes.jpg
   url: "https://frellsen.org/"
 
+
+- name: Gianni Franchi
+  affiliation: AMIAD
+  abstract: TBA
+  img: "https://giannifranchi.github.io/images/gianniF.jpg"
+  # img: teodora.png
+  url: "https://giannifranchi.github.io/"
+
 - name: Christian Hardmeier
   affiliation: IT University of Copenhagen
   abstract: TBA
