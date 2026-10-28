@@ -20,9 +20,9 @@ title: Program
     </tr>
     <tr>
         <td class="time-cell">09:30 - 10:00</td>
-        <td>Invited Talk by <strong><a href="https://frellsen.org/">Jes Frellsen</a></strong>
+        <td>Invited Talk by <strong><a href="https://giannifranchi.github.io/">Gianni Franchi</a></strong>
         <br>
-        <i>An Isotropic Approach to Efficient Uncertainty Quantification with Gradient Norms</i></td>
+        <i>From NECO to Double Descent: What Does Geometry Tell Us About OOD Detection?</i></td>
     </tr>
     <tr>
         <td class="time-cell">10:00 - 10:30</td>
